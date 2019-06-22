@@ -1,0 +1,14 @@
+C:\projects\ProductiveDev\Advantage.API\bin\Debug\netcoreapp2.2\Advantage.API.deps.json
+C:\projects\ProductiveDev\Advantage.API\bin\Debug\netcoreapp2.2\Advantage.API.runtimeconfig.json
+C:\projects\ProductiveDev\Advantage.API\bin\Debug\netcoreapp2.2\Advantage.API.runtimeconfig.dev.json
+C:\projects\ProductiveDev\Advantage.API\bin\Debug\netcoreapp2.2\Advantage.API.dll
+C:\projects\ProductiveDev\Advantage.API\bin\Debug\netcoreapp2.2\Advantage.API.pdb
+C:\projects\ProductiveDev\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.csprojAssemblyReference.cache
+C:\projects\ProductiveDev\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.csproj.CoreCompileInputs.cache
+C:\projects\ProductiveDev\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.RazorAssemblyInfo.cache
+C:\projects\ProductiveDev\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.RazorAssemblyInfo.cs
+C:\projects\ProductiveDev\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.AssemblyInfoInputs.cache
+C:\projects\ProductiveDev\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.AssemblyInfo.cs
+C:\projects\ProductiveDev\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.RazorTargetAssemblyInfo.cache
+C:\projects\ProductiveDev\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.dll
+C:\projects\ProductiveDev\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.pdb

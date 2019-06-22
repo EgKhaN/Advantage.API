@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\projects\\ProductiveDev\\Advantage.API\\Advantage.API.csproj": {}
+    "C:\\projects\\ProductiveDev\\Advantage.API\\Advantage.API.csproj": {}
   },
   "projects": {
-    "c:\\projects\\ProductiveDev\\Advantage.API\\Advantage.API.csproj": {
+    "C:\\projects\\ProductiveDev\\Advantage.API\\Advantage.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\projects\\ProductiveDev\\Advantage.API\\Advantage.API.csproj",
+        "projectUniqueName": "C:\\projects\\ProductiveDev\\Advantage.API\\Advantage.API.csproj",
         "projectName": "Advantage.API",
-        "projectPath": "c:\\projects\\ProductiveDev\\Advantage.API\\Advantage.API.csproj",
+        "projectPath": "C:\\projects\\ProductiveDev\\Advantage.API\\Advantage.API.csproj",
         "packagesPath": "C:\\Users\\EgK\\.nuget\\packages\\",
-        "outputPath": "c:\\projects\\ProductiveDev\\Advantage.API\\obj\\",
+        "outputPath": "C:\\projects\\ProductiveDev\\Advantage.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -52,11 +52,31 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
             }
           },
           "imports": [
