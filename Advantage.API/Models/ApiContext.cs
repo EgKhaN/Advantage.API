@@ -1,0 +1,4 @@
+namespace Advantage.API.Models
+{
+    
+}
